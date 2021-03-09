@@ -146,7 +146,7 @@ def main():
     print("FINAL RESULTS:")
     placement = 1
     for x, y in final_scores.items():
-        print(placement".", x, y)
+        print(placement,".", x, y)
         placement += 1
 
 if __name__ == "__main__":
